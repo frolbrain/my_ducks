@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  	<meta charset="UTF-8">
+  	<title>Yellow Duck</title>
+  	<link href="css/normalize.css" rel="stylesheet">
+  	<link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+
+<header>
+	<div class="container clearfix">
+		<!-- логотип -->
+		<a href="#" class="logo">Yellow Duck</a>
+		<!-- меню -->
+		<nav>
+			<ul>
+				<li><a href="">О Компании</a></li>
+				<li><a href="#">Каталог</a></li>
+				<li><a href="">Доставка и оплата</a></li>
+				<li><a href="">Контакты</a></li>
+			</ul>
+		</nav>
+	</div>
+</header>
